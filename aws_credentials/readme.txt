@@ -1,0 +1,1 @@
+Load it to %USERPROFILE%\.aws\ on Windows!
